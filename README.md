@@ -122,3 +122,5 @@ To reach darknet markets, you *must* use their onion URLs. Always make sure you'
 Onion marketplaces are tools for private, anonymous transactions. If you adhere to security best practices, use escrow services, and are cautious with personal information, you can safely navigate these platforms. Always verify URLs, use encryption, and remain aware of scams to ensure a secure and successful experience.
 
 Please contribute and add stars to this repo.
+
+Update:  11.06.2025 url is operational
